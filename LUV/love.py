@@ -3,10 +3,10 @@ from PIL import Image
 import time
 # Đường dẫn file
 #Lưu ảnh trong Folder PICTURES
-head_path = 'PICTURES'
+head_path = './PICTURES'
 # Khai báo tên ảnh: '\ + tên ảnh '
 name_images = [
-    # '\tênảnh1' , '\tênảnh2'
+    '\pic1' , # '\tênảnh2'
     ]
 # Phần mở rộng ảnh
 extension_path = '.jpg'
